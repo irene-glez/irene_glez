@@ -1,4 +1,4 @@
-### Hi there!  :smiley_cat: 
+### Hi!  :smiley_cat: 
 
 <!--
 **irene-glez/irene-glez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
